@@ -1,10 +1,69 @@
-- 👋 Hi, I’m @KiRilLTatar
-- 👀 I’m interested in programming in the field of desktop and web
-- 🌱 I’m currently learning python. I'll start learning soon JS,React, node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Кирилл Татаринцев
 
-<!---
-KiRilLTatar/KiRilLTatar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend-разработчик (.NET).  
+Занимаюсь разработкой серверной логики, REST API и инфраструктуры сервисов. Интересуюсь архитектурой backend-систем, производительностью приложений и DevOps-подходами.
+
+---
+
+## Технологии
+
+### Backend
+C#, .NET, ASP.NET Core, REST API
+
+### Базы данных
+PostgreSQL, MySQL, Redis
+
+### Инфраструктура
+Docker, Docker Compose, Nginx, CI/CD (GitHub Actions)
+
+### Другие технологии
+Python, WPF, Unity
+
+---
+
+## Основные проекты
+
+В данный момент участвую в проектировании и разработке backend-экосистемы компании для оформления и генерации студенческих карт.  
+Система реализована на **C# (.NET)** с использованием архитектуры **REST API и микросервисного подхода**, контейнеризирована через **Docker**, а маршрутизация и проксирование входящих запросов реализованы через **Nginx** внутри изолированной Docker-сети.
+
+Также ведётся разработка внутренней CRM-части системы, включающей управление заявками, обработку пользовательских данных и генерацию документов.
+
+---
+
+## Учебные проекты
+
+В репозиториях представлены учебные проекты, разработанные в рамках университетских дисциплин и самостоятельного изучения технологий.
+
+Основные направления проектов:
+
+- разработка desktop-приложений на **WPF** с использованием архитектуры **MVVM**
+- разработка веб-приложений на **Django**
+- исследование **алгоритмов и структур данных**
+- проекты по **машинному обучению и компьютерному зрению**
+- разработка игр на **Unity**
+- backend-проекты на **Python**
+
+---
+
+## GitHub репозитории
+
+Некоторые из представленных проектов:
+
+- Sea-Battle  
+- HumanDesign  
+- AI_TIMP2025  
+- Test_Sorting  
+- The_age_of_time  
+- Platform-course  
+
+Все проекты являются учебными и отражают изучение различных технологий и архитектурных подходов.
+
+---
+
+## Контакты
+
+Email:  
+**kirilltata119@gmail.com**
+
+Telegram:  
+**@tatarinrsev**
